@@ -1,5 +1,28 @@
-# THP _ Ruby training 
+# THP _ auto_mkdir 
 
-Lab from [The_Hacking_Project](https://www.thehackingproject.org/?locale=fr)
+from [The_Hacking_Project](https://www.thehackingproject.org/?locale=fr)
 
-Training on Ruby
+
+                    *****************
+               ******               ******
+           ****                           ****
+        ****                                 ***
+      ***                                       ***
+     **           ***               ***           **
+   **           *******           *******          ***
+  **            *******           *******            **
+ **             *******           *******             **
+ **               ***               ***               **
+**                                                     **
+**       *                                     *       **
+**      **                                     **      **
+ **   ****                                     ****   **
+ **      **                                   **      **
+  **       ***                             ***       **
+   ***       ****                       ****       ***
+     **         ******             ******         **
+      ***            ***************            ***
+        ****                                 ****
+           ****                           ****
+               ******               ******
+                    *****************
